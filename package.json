@@ -13,7 +13,7 @@
     "@angular/router": "8.2.14",
     "@angular/service-worker": "8.2.14",
     "core-js": "2.6.11",
-    "highcharts": "7.2.1",
+    "highcharts": "7.2.2",
     "highcharts-angular": "2.4.0",
     "lodash": "^4.17.15",
     "rxjs": "6.4.0",
